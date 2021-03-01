@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I am Raghav
+:iphone: I am currently doing Android app development
 
+:office: I currently study at Vellore institute of technology.
+
+📫 How to reach me: raghavtalwar11@gmail.com
 <!--
 **raghavtalwar7/raghavtalwar7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
