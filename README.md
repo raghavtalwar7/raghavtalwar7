@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Raghav
-:iphone: I am currently doing Android app development
+:iphone: I am currently doing Flutter app development
 
-:office: I currently study at Vellore institute of technology.
+:office: I currently working at TATA Digital pvt. Ltd..
 
 📫 How to reach me: raghavtalwar11@gmail.com
 <!--
