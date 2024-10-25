@@ -1,7 +1,9 @@
 ### Hi there 👋 I am Raghav
 :iphone: I am currently doing Flutter app development
 
-:office: I currently working at TATA Digital pvt. Ltd..
+:office: Worked at TATA Digital pvt. Ltd. as Senior Software Developer
+
+:student: Current Studying MSc in Computer Science at TU Delft
 
 📫 How to reach me: raghavtalwar11@gmail.com
 <!--
