@@ -1,22 +1,30 @@
-### Hi there 👋 I am Raghav
-:iphone: I am currently doing Flutter app development
+# Hi there 👋 I'm Raghav
 
-:office: Worked at TATA Digital pvt. Ltd. as Senior Software Developer
+🎓 MSc Computer Science student at **TU Delft**  
+💼 Former **Senior Software Developer** at **TATA Digital Pvt. Ltd.**  
+📱 Flutter enthusiast | 🤖 Working with **LLMs** | 🔧 Exploring **DevOps** | 📊 Handling **Data in ML**
 
-:student: Current Studying MSc in Computer Science at TU Delft
+---
 
-📫 How to reach me: raghavtalwar11@gmail.com
-<!--
-**raghavtalwar7/raghavtalwar7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 I’m passionate about building scalable systems and intuitive user experiences —> from mobile apps to machine learning pipelines.
 
-Here are some ideas to get you started:
+## 🔍 My Current Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📱 **Flutter & Cross-platform App Development**  
+- 🤖 **Large Language Models (LLMs)** & AI Applications  
+- 🔧 **DevOps**, CI/CD Pipelines & Cloud Integration  
+- 📊 **Data Engineering & Machine Learning Workflows**
+
+---
+
+## 📈 GitHub Stats
+
+![Raghav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raghavtalwar7&show_icons=true&theme=great-gatsby&count_private=true&hide_rank=false&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raghavtalwar7&layout=donut-vertical&theme=great-gatsby)
+
+---
+
+## 📫 How to Reach Me
+
+📧 **raghavtalwar11@gmail.com**
