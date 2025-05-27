@@ -19,7 +19,7 @@
 
 ## 📈 GitHub Stats
 
-![Raghav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raghavtalwar7&show_icons=true&theme=great-gatsby&count_private=true&hide_rank=false&rank_icon=github)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/raghavtalwar7?cardType=level&theme=great-gatsby&preferLogin=false&Border=DD9104&Ring=DD0449)](https://git.io/awesome-stats-card)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raghavtalwar7&layout=donut-vertical&theme=great-gatsby)
 
